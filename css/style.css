@@ -624,7 +624,7 @@ section {
         top: 99%;
         left: 0;
         right: 0;
-        background: #fff;
+        background: #000;
         clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
     }
 
